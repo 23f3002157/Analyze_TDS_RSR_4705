@@ -1,0 +1,7 @@
+date,units,price,region,product
+2023-01-01,100,10,North,Product A
+2023-01-01,200,15,South,Product B
+2023-01-02,150,12,North,Product A
+2023-01-02,100,20,East,Product C
+2023-01-03,300,10,South,Product B
+2023-01-03,250,25,West,Product D
